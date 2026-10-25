@@ -18,5 +18,8 @@
     <ClCompile Include="ex2_kiosk.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ex3_parcel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
